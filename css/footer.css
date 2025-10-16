@@ -286,7 +286,7 @@
             flex-flow: row wrap;
             overflow: hidden;
             .digikala-item {
-                width: 186px;
+                width: 12.3%;
                 height: 80px;
                 display: flex;
                 img {
